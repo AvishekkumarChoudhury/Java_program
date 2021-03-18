@@ -15,7 +15,7 @@ public class Box {
     }
     public static void main(String[] args) {
     Box B1 = new Box();
-    B1.set_dimension(12, 12, 1); 
+    B1.set_dimension(12, 12, 23); 
     B1.show_dimension();       
     }
     
